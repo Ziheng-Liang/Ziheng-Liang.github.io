@@ -1,1 +1,11 @@
+# basic options
+title: Ziheng Liang
+author: GitHub User
+email: ziheng941008@hotmail.com
+description: A computer graphics, computer vision machine learning enthusiast.
+github_username: Ziheng-Liang
+gitlab_username: qqqwey941008
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
