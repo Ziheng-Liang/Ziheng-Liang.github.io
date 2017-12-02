@@ -3,27 +3,45 @@
 I focus on computer graphics, computer vision, machine learning and game design. Here are some course I took or currently taking:
 
 Gomputer Graphics:
+
 CSC2521 Computational Design and Fabrication (Graduate Course)
+
 CSC2520 Geometry Processing (Graduate Course)
+
 CSC418 Computer Graphics
 
+
 Comptuer Vison:
+
 CSC420 Introduction to Image Understanding
+
 CSC320 Introduction to Visual Computing
 
+
 Machine Learning:
+
 CSC412 Probabilistic Learning and Reasoning
+
 CSC411 Machine Learning
+
 CSC401 Natural Language Computing
+
 CSC321 Introduction to Neural Networks and Machine Learning
+
 CSC384 Introduction to Artificial Intelligence
 
+
 Game Design:
+
 CSC404 Introduction to Video Game Design
+
 CSC318 The Design of Interactive Computational Media
 
+
 Other:
+
 CSC373 Advanced Algorithm Design
+
 CSC466 Numerical Methods for Optimization Problems
 
 
