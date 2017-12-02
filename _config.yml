@@ -7,5 +7,4 @@ github_username: Ziheng-Liang
 gitlab_username: qqqwey941008
 
 # Build settings
-markdown: kramdown
 theme: jekyll-theme-minimal
