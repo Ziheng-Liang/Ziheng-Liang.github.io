@@ -1,8 +1,8 @@
 ## About Me
 
-I am currently a 4th year computer science undergraduate student at University of Toronto. I am interested in computer graphics, computer vision, machine learning and game design. Before returning to school to finish up my final year, I worked at Sysomos as a data scientist intern. 
+I am currently a 4th year computer science undergraduate student at University of Toronto. I am interested in computer graphics, computer vision, machine learning and game design. Before returning to school to finish up my final year, I worked at Sysomos(https://sysomos.com/) as a data scientist intern. 
 
-You can reach me at ziheng941008 at hotmail.com. Here is my curriculum vitae.
+You can reach me at ziheng941008 at hotmail.com. Here is my curriculum vitae(assets/CV-ZihengLiang.pdf).
 
 <!-- ### Markdown
 
