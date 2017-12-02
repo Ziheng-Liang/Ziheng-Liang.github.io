@@ -1,4 +1,4 @@
-## About Me
+## Education
 
 I focus on computer graphics, computer vision, machine learning and game design. Here are some course I took or currently taking:
 

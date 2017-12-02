@@ -1,38 +1,10 @@
-## About Me
+## Projects
 
-I am currently a 4th year computer science undergraduate student at University of Toronto. I am interested in computer graphics, computer vision, machine learning and game design. Before returning to school to finish up my final year, I worked at [Sysomos](https://sysomos.com/) as a data scientist intern. 
+### Penguin Rush
+Penguin Rush is a top-down fast-pace arena game made by unity engine. It was the course project of University of Toronto CSC404. I developed this game with 4 other programmers and 3 artists. This game is still under development after the course, and we aim to present this game at [levelupshowcase](https://levelupshowcase.com/) on April 4, 2018. Come and check us out!
+[![Penguin Rush](http://img.youtube.com/vi/o4CNXGsTZmU&t=1/0.jpg)](http://www.youtube.com/watch?v=o4CNXGsTZmU&t=1)
 
-You can reach me at ziheng941008 at hotmail.com. Here is my [curriculum vitae](assets/CV-ZihengLiang.pdf).
+### Somnus.
+Ghost Recall System is a text based advanture game made by unity engine. This is the graduation project of Peng Bo, a former student of China Academy of Art. I was invited to provide technical support as the only developer.
+[![Somnus.](http://img.youtube.com/vi/wZkR39QxpRU&t=1/0.jpg)](http://www.youtube.com/watch?v=wZkR39QxpRU&t=1)
 
-<!-- ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ziheng-Liang/Ziheng-Liang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
- -->
